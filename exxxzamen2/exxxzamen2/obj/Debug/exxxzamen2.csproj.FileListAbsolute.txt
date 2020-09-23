@@ -1,0 +1,10 @@
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\bin\Debug\exxxzamen2.exe.config
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\bin\Debug\exxxzamen2.exe
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\bin\Debug\exxxzamen2.pdb
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\obj\Debug\exxxzamen2.csprojAssemblyReference.cache
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\obj\Debug\exxxzamen2.Form1.resources
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\obj\Debug\exxxzamen2.Properties.Resources.resources
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\obj\Debug\exxxzamen2.csproj.GenerateResource.cache
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\obj\Debug\exxxzamen2.csproj.CoreCompileInputs.cache
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\obj\Debug\exxxzamen2.exe
+C:\Users\abrik\source\repos\exxxzamen2\exxxzamen2\obj\Debug\exxxzamen2.pdb
